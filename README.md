@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **chiragmalik31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JMle_JCEhY9JC619q2Uda3-XU8Wz4C-U/view?usp=sharing](https://drive.google.com/file/d/1JMle_JCEhY9JC619q2Uda3-XU8Wz4C-U/view?usp=sharing)
-
 - ⚡ Fun fact **First decode, then code.**
 
 <h3 align="left">Connect with me:</h3>
