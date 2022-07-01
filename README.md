@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **web development projects**
 
-- 📫 How to reach me **chiragmalik31@gmail.com**
+- 📫 To reach me: **chiragmalik31@gmail.com**
 
-- ⚡ Fun fact **First decode, then code.**
+- ⚡ Fun fact:  **First decode, then code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
