@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently a software developer at **ArmorCode**
 
-- 🤝 I’m looking for help with **web development projects**
+- 🤝 I’m open for help with **web development projects**
 
 - 📫 To reach me: **chiragmalik31@gmail.com**
 
